@@ -1,5 +1,6 @@
 
-https://gautham1995.github.io/zero/
+// old - https://gautham1995.github.io/zero/
+Updated - https://gauthamm11.github.io/zero/
 
 // favicon - square
 
